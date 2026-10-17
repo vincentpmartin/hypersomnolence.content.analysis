@@ -1,4 +1,4 @@
-# Insomnia Content Analysis 
+# Central Disorders of Hypersomnolence content analysis
 
 [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -11,7 +11,7 @@ The data and notebook contained in this repository foster the reproducibility of
 * V. P. Martin, J. Coelho, L. Peter-Derex, I. Lambert, S. Mazza, R. Lopez, P. Philip, J. Taillard, and J.-A. Micoulaud-Franchi, “From clinical symptoms to PROMs in Central Disorders of Hypersomnolence: A systematic content overlap analysis of specific questionnaires,” [Under review] 
 
 ## HTML files, tables and figures
-The analyze files corresponding to the [current study](https://raw.githack.com/vincentpmartin/insomnia.content.analysis/main/jupyter_notebook_insomnia_content_analysis.html) is available in this repository. <br>
+The analyze files corresponding to the [current study](https://raw.githack.com/vincentpmartin/hypersomnolence.content.analysis/main/jupyter_notebook_hypersomnolence_content_analysis.ipynb) is available in this repository. <br>
 The figures and tables produced by this code are available in the [./tables_and_figures](./tables_and_figures) folder. 
 
 ## Contact
